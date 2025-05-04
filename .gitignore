@@ -1,0 +1,6 @@
+# Gereksiz dosyaları dışarıda tut
+*.log
+*.tmp
+*.bak
+.env
+
